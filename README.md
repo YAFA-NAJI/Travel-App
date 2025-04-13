@@ -11,6 +11,3 @@ A beautiful and responsive React-based travel website showcasing the most visite
 - 📱 Responsive design for mobile, tablet, and desktop views
 - 🎨 Scroll animations powered by AOS
 - 📍 Social media integration icons
-
-## 🧱 Project Structure
-
